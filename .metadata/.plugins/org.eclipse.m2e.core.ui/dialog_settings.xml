@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Ash\Documents\1_Code Stuff\Java\Udemy course\spring-crm-rest-demo"/>
+			<item value="C:\Users\Ash\Documents\1_Code Stuff\Java\Udemy course\solution-code-spring-rest-exception-handling-demo"/>
+			<item value="C:\Users\Ash\Documents\1_Code Stuff\Java\Udemy course\New folder\spring-security-demo-starter\spring-security-demo-starter\spring-security-demo-01-base-app"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

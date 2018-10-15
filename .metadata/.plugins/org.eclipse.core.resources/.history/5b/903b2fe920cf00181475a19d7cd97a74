@@ -1,0 +1,12 @@
+<html>
+<body>
+
+<h3>Spring CRM REST Demo</h3>
+
+<hr>
+
+<a href="${pageContext.request.contextPath}/api/customers">Get all Customers</a>
+<br><br>
+<a href="${pageContext.request.contextPath}/api/customer/0">Get single cusotmer</a>
+</body>
+</html>
