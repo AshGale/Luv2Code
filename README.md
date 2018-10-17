@@ -1,2 +1,2 @@
-# Udemy
-For Udemy courses and exercises 
+# Luv2Code
+Luv2Code udemy course projects
